@@ -14,6 +14,8 @@ A small package containing various abstractions for list processing and statisti
 
 - **th.Lmean** - *Return the mean from a list of values*
 
+- **th.Lmedian** - *Return the median from a list of values*
+
 - **th.Lmode** - *Return the mode or modes from a list of values. Returns a sorted list of modes in a multimodal dataset.*
 
 - **th.Lrange** - *Return the range, minimum and maximum value from a list of values.*
