@@ -28,15 +28,23 @@ A small package containing various abstractions for list processing and statisti
 
 ## Install
 
+Download zip
 ```
 1. download zip
 2. unzip and place in Max Searchpath (eg. MacOS ~/Documents/Max 8/Library)
 3. restart Max8
 ```
+Git clone
+```
+1. $ cd ~/Documents/Max\ 8/Library
+2. $ git clone https://github.com/tmhglnd/list-objects.git
+3. restart Max8
+```
+```
+4. open _list-objects-help.maxpat
+```
+## License
 
-```
-1. open terminal
-2. navigate to Max Searchpath (eg. MacOS cd ~/Documents/Max\ 8/Library)
-3. $ git clone https://github.com/tmhglnd/list-objects.git
-4. restart Max8
-```
+This software is licensed under:
+
+The MIT License
