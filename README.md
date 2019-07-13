@@ -12,6 +12,8 @@ A small package containing various abstractions for list processing and statisti
 
 ## Contains
 
+- **th.Lfitprosel** - *Make a Fitness Proportional Selection from an inputlist (right inlet), return a value based on an inputvalue between 0 and 1.*
+
 - **th.Lmean** - *Return the mean from a list of values*
 
 - **th.Lmedian** - *Return the median from a list of values*
@@ -22,7 +24,7 @@ A small package containing various abstractions for list processing and statisti
 
 - **th.Lmmmr** - *Objects above combined, returns the mean, median, mode and range of a list of values.*
 
-- **th.Lfitprosel** - *Make a Fitness Proportional Selection from an inputlist (right inlet), return a value based on an inputvalue between 0 and 1.*
+- **th.Lshuffle** - *Return a shuffled version of a list, set the seed for the Pseudo Random Number Generator*
 
 ## Install
 
